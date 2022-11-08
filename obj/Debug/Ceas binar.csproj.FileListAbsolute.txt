@@ -1,0 +1,8 @@
+D:\Aplicatii\Microsoft Visual Studio\Salvari\Ceas binar\Ceas binar\obj\Debug\Ceas binar.csproj.AssemblyReference.cache
+D:\Aplicatii\Microsoft Visual Studio\Salvari\Ceas binar\Ceas binar\obj\Debug\Ceas binar.csproj.SuggestedBindingRedirects.cache
+D:\Aplicatii\Microsoft Visual Studio\Salvari\Ceas binar\Ceas binar\obj\Debug\Ceas binar.csproj.CoreCompileInputs.cache
+D:\Aplicatii\Microsoft Visual Studio\Salvari\Ceas binar\Ceas binar\bin\Debug\Ceas binar.exe.config
+D:\Aplicatii\Microsoft Visual Studio\Salvari\Ceas binar\Ceas binar\bin\Debug\Ceas binar.exe
+D:\Aplicatii\Microsoft Visual Studio\Salvari\Ceas binar\Ceas binar\bin\Debug\Ceas binar.pdb
+D:\Aplicatii\Microsoft Visual Studio\Salvari\Ceas binar\Ceas binar\obj\Debug\Ceas binar.exe
+D:\Aplicatii\Microsoft Visual Studio\Salvari\Ceas binar\Ceas binar\obj\Debug\Ceas binar.pdb
